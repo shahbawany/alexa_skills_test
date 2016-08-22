@@ -1,3 +1,7 @@
+// Author: Shah Bawany
+// Date: 2016-08-21
+
+
 DYNAMO_CONFIG = {
   tableName: "RecipeUserStatev2",
   region: "us-east-1",
